@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.43687943, g: 0.48453254, b: 0.5647881, a: 1}
+  m_IndirectSpecularColor: {r: 0.43688026, g: 0.48453355, b: 0.56478953, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -670,7 +670,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 747071612}
-  speed: 6
   gravity: -9.81
   groundCheck: {fileID: 1273403971}
   groundDistance: 0.4
@@ -816,7 +815,7 @@ Camera:
   m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 64.12143
+  m_FocalLength: 6.246804
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -825,7 +824,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 21.2
+  field of view: 125
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
