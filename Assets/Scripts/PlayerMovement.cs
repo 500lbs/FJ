@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         if (Input.GetKey(KeyCode.Mouse0))
         {
-            controller.SimpleMove(forward * 3);
+            controller.SimpleMove(forward * speed);
         }
 
         
