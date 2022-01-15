@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 810483155029395304}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 7402319793178885040}
   - component: {fileID: 4826371838603679561}
   - component: {fileID: 915870507593203541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 1053099907704300617}
   - component: {fileID: 2417822200810807}
   - component: {fileID: 915870508253071501}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CavePath
   m_TagString: Untagged
   m_Icon: {fileID: 0}

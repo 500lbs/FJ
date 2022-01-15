@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1688425499203173680}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockAGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 49517236880910900}
   - component: {fileID: 1688425498720027070}
   - component: {fileID: 1688425498720027071}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockA (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144,7 +144,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 56552778665694db39919f1ec33c74a3, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.501
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -241,7 +241,7 @@ GameObject:
   - component: {fileID: 49517238411164524}
   - component: {fileID: 1688425499234117165}
   - component: {fileID: 1688425499234117166}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockA (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -337,7 +337,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 69755156b1bb7498f83ea1286836a164, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.501
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -434,7 +434,7 @@ GameObject:
   - component: {fileID: 49517238093548502}
   - component: {fileID: 1688425498878612869}
   - component: {fileID: 1688425498878612870}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockA (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -530,7 +530,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5d378d939e18e49e986a0b208bcf1a20, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.501
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 49517237869138619}
   - component: {fileID: 1688425499127478804}
   - component: {fileID: 1688425499127478805}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockA (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -723,7 +723,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 850696dceb7414f56a9a3e047aefb95f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.501
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -821,7 +821,7 @@ GameObject:
   - component: {fileID: 1688425499161180134}
   - component: {fileID: 1688425499161180135}
   - component: {fileID: 1688425499161180128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: IceBlockA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -931,7 +931,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 26c21b2a0114d45f2866fcab254a7a94, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.501
   m_Pitch: 1
   Loop: 1
   Mute: 0

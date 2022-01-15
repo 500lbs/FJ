@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -174,37 +174,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1465746604204309921, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_SlopeLimit
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465746604204309921, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_StepOffset
-      value: 0.3
-      objectReference: {fileID: 0}
     - target: {fileID: 1465746604204309923, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: speed
-      value: 40
+      propertyPath: jumpHeight
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1465746604204309926, guid: add7a12dff32f40288f098a507610c7d, type: 3}
       propertyPath: m_Name
       value: First Person Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465746604204309926, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465746604563331246, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_BackGroundColor.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465746604563331246, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_BackGroundColor.g
-      value: 0.3158298
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465746604563331246, guid: add7a12dff32f40288f098a507610c7d, type: 3}
-      propertyPath: m_BackGroundColor.r
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: add7a12dff32f40288f098a507610c7d, type: 3}
